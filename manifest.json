@@ -1,0 +1,22 @@
+{
+  "name": "Ball Flaps",
+  "short_name": "Ball Flaps",
+  "description": "A game where you guide a colored ball through a series of building obstacles. Features customizable ball colors and a special challenge at high scores.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "icon-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
